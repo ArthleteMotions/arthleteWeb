@@ -3494,7 +3494,7 @@ p {
 }
 
 .join-button {
-  background-color: #166e3f;
+  background-color: #f2542d;
   color: white;
   padding: 0.4rem 1rem;
   border-radius: 999px;
@@ -3505,7 +3505,7 @@ p {
 }
 
 .join-button:hover {
-  background-color: #135a34;
+  background-color: #f2542d;
 }
 
 /* === RESPONSIVE TOGGLE === */
